@@ -1,4 +1,4 @@
-Video Tutorial: https://www.youtube.com/watch?v=1dWxCE_RfaE&t=1s
+
 
 # image-contest
 upload and image and vote for the best one
